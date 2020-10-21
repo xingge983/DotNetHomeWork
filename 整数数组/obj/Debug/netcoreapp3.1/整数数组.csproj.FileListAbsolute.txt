@@ -1,0 +1,13 @@
+C:\Users\12104\source\repos\整数数组\bin\Debug\netcoreapp3.1\整数数组.exe
+C:\Users\12104\source\repos\整数数组\bin\Debug\netcoreapp3.1\整数数组.deps.json
+C:\Users\12104\source\repos\整数数组\bin\Debug\netcoreapp3.1\整数数组.runtimeconfig.json
+C:\Users\12104\source\repos\整数数组\bin\Debug\netcoreapp3.1\整数数组.runtimeconfig.dev.json
+C:\Users\12104\source\repos\整数数组\bin\Debug\netcoreapp3.1\整数数组.dll
+C:\Users\12104\source\repos\整数数组\bin\Debug\netcoreapp3.1\整数数组.pdb
+C:\Users\12104\source\repos\整数数组\obj\Debug\netcoreapp3.1\整数数组.csprojAssemblyReference.cache
+C:\Users\12104\source\repos\整数数组\obj\Debug\netcoreapp3.1\整数数组.AssemblyInfoInputs.cache
+C:\Users\12104\source\repos\整数数组\obj\Debug\netcoreapp3.1\整数数组.AssemblyInfo.cs
+C:\Users\12104\source\repos\整数数组\obj\Debug\netcoreapp3.1\整数数组.csproj.CoreCompileInputs.cache
+C:\Users\12104\source\repos\整数数组\obj\Debug\netcoreapp3.1\整数数组.dll
+C:\Users\12104\source\repos\整数数组\obj\Debug\netcoreapp3.1\整数数组.pdb
+C:\Users\12104\source\repos\整数数组\obj\Debug\netcoreapp3.1\整数数组.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\12104\source\repos\WinformCauculator\bin\Debug\WinformCauculator.exe.config
+C:\Users\12104\source\repos\WinformCauculator\bin\Debug\WinformCauculator.exe
+C:\Users\12104\source\repos\WinformCauculator\bin\Debug\WinformCauculator.pdb
+C:\Users\12104\source\repos\WinformCauculator\obj\Debug\WinformCalculator.csprojAssemblyReference.cache
+C:\Users\12104\source\repos\WinformCauculator\obj\Debug\WinformCauculator.Form1.resources
+C:\Users\12104\source\repos\WinformCauculator\obj\Debug\WinformCauculator.Properties.Resources.resources
+C:\Users\12104\source\repos\WinformCauculator\obj\Debug\WinformCalculator.csproj.GenerateResource.cache
+C:\Users\12104\source\repos\WinformCauculator\obj\Debug\WinformCalculator.csproj.CoreCompileInputs.cache
+C:\Users\12104\source\repos\WinformCauculator\obj\Debug\WinformCauculator.exe
+C:\Users\12104\source\repos\WinformCauculator\obj\Debug\WinformCauculator.pdb

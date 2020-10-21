@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "托普利茨矩阵/1.0.0": {
+        "runtime": {
+          "托普利茨矩阵.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "托普利茨矩阵/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

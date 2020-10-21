@@ -1,0 +1,13 @@
+C:\Users\12104\source\repos\托普利茨矩阵\bin\Debug\netcoreapp3.1\托普利茨矩阵.exe
+C:\Users\12104\source\repos\托普利茨矩阵\bin\Debug\netcoreapp3.1\托普利茨矩阵.deps.json
+C:\Users\12104\source\repos\托普利茨矩阵\bin\Debug\netcoreapp3.1\托普利茨矩阵.runtimeconfig.json
+C:\Users\12104\source\repos\托普利茨矩阵\bin\Debug\netcoreapp3.1\托普利茨矩阵.runtimeconfig.dev.json
+C:\Users\12104\source\repos\托普利茨矩阵\bin\Debug\netcoreapp3.1\托普利茨矩阵.dll
+C:\Users\12104\source\repos\托普利茨矩阵\bin\Debug\netcoreapp3.1\托普利茨矩阵.pdb
+C:\Users\12104\source\repos\托普利茨矩阵\obj\Debug\netcoreapp3.1\托普利茨矩阵.csprojAssemblyReference.cache
+C:\Users\12104\source\repos\托普利茨矩阵\obj\Debug\netcoreapp3.1\托普利茨矩阵.AssemblyInfoInputs.cache
+C:\Users\12104\source\repos\托普利茨矩阵\obj\Debug\netcoreapp3.1\托普利茨矩阵.AssemblyInfo.cs
+C:\Users\12104\source\repos\托普利茨矩阵\obj\Debug\netcoreapp3.1\托普利茨矩阵.csproj.CoreCompileInputs.cache
+C:\Users\12104\source\repos\托普利茨矩阵\obj\Debug\netcoreapp3.1\托普利茨矩阵.dll
+C:\Users\12104\source\repos\托普利茨矩阵\obj\Debug\netcoreapp3.1\托普利茨矩阵.pdb
+C:\Users\12104\source\repos\托普利茨矩阵\obj\Debug\netcoreapp3.1\托普利茨矩阵.genruntimeconfig.cache

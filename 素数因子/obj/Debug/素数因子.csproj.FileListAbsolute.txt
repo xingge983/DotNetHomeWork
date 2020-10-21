@@ -1,0 +1,7 @@
+C:\Users\12104\source\repos\素数因子\bin\Debug\素数因子.exe.config
+C:\Users\12104\source\repos\素数因子\bin\Debug\素数因子.exe
+C:\Users\12104\source\repos\素数因子\bin\Debug\素数因子.pdb
+C:\Users\12104\source\repos\素数因子\obj\Debug\素数因子.csprojAssemblyReference.cache
+C:\Users\12104\source\repos\素数因子\obj\Debug\素数因子.csproj.CoreCompileInputs.cache
+C:\Users\12104\source\repos\素数因子\obj\Debug\素数因子.exe
+C:\Users\12104\source\repos\素数因子\obj\Debug\素数因子.pdb

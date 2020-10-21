@@ -1,0 +1,7 @@
+C:\Users\12104\source\repos\控制台计算器\bin\Debug\控制台计算器.exe.config
+C:\Users\12104\source\repos\控制台计算器\bin\Debug\控制台计算器.exe
+C:\Users\12104\source\repos\控制台计算器\bin\Debug\控制台计算器.pdb
+C:\Users\12104\source\repos\控制台计算器\obj\Debug\控制台计算器.csprojAssemblyReference.cache
+C:\Users\12104\source\repos\控制台计算器\obj\Debug\控制台计算器.csproj.CoreCompileInputs.cache
+C:\Users\12104\source\repos\控制台计算器\obj\Debug\控制台计算器.exe
+C:\Users\12104\source\repos\控制台计算器\obj\Debug\控制台计算器.pdb
