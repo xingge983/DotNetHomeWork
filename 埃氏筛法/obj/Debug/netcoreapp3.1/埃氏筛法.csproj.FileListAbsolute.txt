@@ -1,0 +1,13 @@
+C:\Users\12104\source\repos\Homework1\bin\Debug\netcoreapp3.1\埃氏筛法.exe
+C:\Users\12104\source\repos\Homework1\bin\Debug\netcoreapp3.1\埃氏筛法.deps.json
+C:\Users\12104\source\repos\Homework1\bin\Debug\netcoreapp3.1\埃氏筛法.runtimeconfig.json
+C:\Users\12104\source\repos\Homework1\bin\Debug\netcoreapp3.1\埃氏筛法.runtimeconfig.dev.json
+C:\Users\12104\source\repos\Homework1\bin\Debug\netcoreapp3.1\埃氏筛法.dll
+C:\Users\12104\source\repos\Homework1\bin\Debug\netcoreapp3.1\埃氏筛法.pdb
+C:\Users\12104\source\repos\Homework1\obj\Debug\netcoreapp3.1\埃氏筛法.csprojAssemblyReference.cache
+C:\Users\12104\source\repos\Homework1\obj\Debug\netcoreapp3.1\埃氏筛法.AssemblyInfoInputs.cache
+C:\Users\12104\source\repos\Homework1\obj\Debug\netcoreapp3.1\埃氏筛法.AssemblyInfo.cs
+C:\Users\12104\source\repos\Homework1\obj\Debug\netcoreapp3.1\埃氏筛法.csproj.CoreCompileInputs.cache
+C:\Users\12104\source\repos\Homework1\obj\Debug\netcoreapp3.1\埃氏筛法.dll
+C:\Users\12104\source\repos\Homework1\obj\Debug\netcoreapp3.1\埃氏筛法.pdb
+C:\Users\12104\source\repos\Homework1\obj\Debug\netcoreapp3.1\埃氏筛法.genruntimeconfig.cache
