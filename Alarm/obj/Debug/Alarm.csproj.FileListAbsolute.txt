@@ -1,0 +1,7 @@
+C:\Users\12104\DotNetHomeWork\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\12104\DotNetHomeWork\Alarm\bin\Debug\Alarm.exe
+C:\Users\12104\DotNetHomeWork\Alarm\bin\Debug\Alarm.pdb
+C:\Users\12104\DotNetHomeWork\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+C:\Users\12104\DotNetHomeWork\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\12104\DotNetHomeWork\Alarm\obj\Debug\Alarm.exe
+C:\Users\12104\DotNetHomeWork\Alarm\obj\Debug\Alarm.pdb

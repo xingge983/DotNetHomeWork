@@ -1,0 +1,7 @@
+C:\Users\12104\DotNetHomeWork\GenericLinkedList\bin\Debug\GenericLinkedList.exe.config
+C:\Users\12104\DotNetHomeWork\GenericLinkedList\bin\Debug\GenericLinkedList.exe
+C:\Users\12104\DotNetHomeWork\GenericLinkedList\bin\Debug\GenericLinkedList.pdb
+C:\Users\12104\DotNetHomeWork\GenericLinkedList\obj\Debug\GenericLinkedList.csprojAssemblyReference.cache
+C:\Users\12104\DotNetHomeWork\GenericLinkedList\obj\Debug\GenericLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\12104\DotNetHomeWork\GenericLinkedList\obj\Debug\GenericLinkedList.exe
+C:\Users\12104\DotNetHomeWork\GenericLinkedList\obj\Debug\GenericLinkedList.pdb
