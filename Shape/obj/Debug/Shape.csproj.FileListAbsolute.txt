@@ -1,7 +1,0 @@
-C:\Users\12104\source\repos\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
-C:\Users\12104\source\repos\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
-C:\Users\12104\source\repos\Shape\bin\Debug\Shape.exe.config
-C:\Users\12104\source\repos\Shape\bin\Debug\Shape.exe
-C:\Users\12104\source\repos\Shape\bin\Debug\Shape.pdb
-C:\Users\12104\source\repos\Shape\obj\Debug\Shape.exe
-C:\Users\12104\source\repos\Shape\obj\Debug\Shape.pdb
